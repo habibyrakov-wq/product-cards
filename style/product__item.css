@@ -1,0 +1,11 @@
+
+
+.products__item {
+   width: 340px;
+  box-sizing: border-box;
+  height: 573px;
+  background: #F7F7FA;
+  padding: 25px;
+  list-style: none;
+  margin:0 ;
+}

@@ -1,0 +1,18 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.card {
+  background-color: #F7F7FA;
+  padding: 25px;
+}
+
+.card__image{
+ display: block;
+  }
+
+  .card__category {
+    display: block;
+  }

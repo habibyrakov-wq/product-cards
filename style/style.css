@@ -1,0 +1,18 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat'; 
+  src: local('Montserrat'),
+  url(/fonts/Montserrat-Regular.ttf) format('truetype');
+  font-size: 13px;
+  color: #515076;
+  background-position-x: calc(100%/2 - 160px);
+  background-image: url("/images/dandelion.jpg");
+ background-size: 790px;
+  background-repeat:no-repeat;
+background-position: 85px 0px;
+}
